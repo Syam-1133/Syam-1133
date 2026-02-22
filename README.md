@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Syam;Machine+Learning+Engineer;Computer+Vision+;AI+Systems+Builder+Gen AI;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Syam;Machine+Learning+Engineer;Computer+Vision+Specialist;AI+Systems+Builder;Gen+AI+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -182,6 +182,7 @@ The AI Self driving Car Racing Simulation is an autonomous driving simulation bu
   <a href="https://github.com/Syam-1133" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
