@@ -95,15 +95,6 @@ YOLOv8-based vehicle detection, tracking, and speed estimation pipeline.
 - 🎯 Solved **200+ problems** on Coding Ninjas
 - 🤖 Selected as a member of the **VIT Robotics Club** (among 10,000+ applicants)
 
-## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Syam-1133&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syam-1133&layout=compact&theme=radical)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syam1133/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:syamkklr123@gmail.com)
 
 ⭐️ From [Syamala Rao G](https://github.com/Syam-1133)
