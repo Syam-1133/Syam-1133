@@ -125,13 +125,17 @@ I enjoy solving real-world problems where models must work outside notebooks and
 <br/>
 
 ### 🧠 RAG-Based Document Intelligence Platform
-Production-ready RAG system using OpenAI embeddings, FAISS, Groq LLM, Streamlit UI, and voice assistant integration.
+A RAG-based Document Intelligence platform that turns documents into searchable knowledge. I create embeddings with OpenAI, store them in FAISS to retrieve the most relevant information, and pass them to a Groq LLM to answer questions strictly from the source. It includes a Streamlit UI, query history, and a voice assistant (speech-to-text + ElevenLabs TTS).
 
 ### 🛍 Large-Scale Amazon Recommender System
-Built hybrid recommendation engine on 7M+ dataset with Dockerized microservices architecture.
+A large-scale Amazon Recommender System using the SNAP Amazon metadata with 7 million dataset ( 500K products, 7M reviews). The system includes search optimization, data preprocessing pipelines, and was architected with Docker and AWS to simulate a production-ready environment
 
-### 🚦 Real-Time Traffic Monitoring System
-YOLOv8-based vehicle detection, tracking, and speed estimation pipeline.
+### Math Gesture Problem Solver Controlled AI Assistant 
+The Math Gesture Problem Solver Controlled AI Assistant is an innovative project that allows users to interact with an AI to solve math problems using hand gestures. This project integrates computer vision for gesture recognition and a generative AI model for solving math problems.
+
+## AI Self-Driving Car Racing Simulation (AI from Scratch
+The AI Self driving Car Racing Simulation is an autonomous driving simulation built using Python and Pyglet, where self-driving cars are trained using a custom-built neural network and genetic algorithm and implemented entirely from scratch without external ML libraries.
+
 
 ---
 
