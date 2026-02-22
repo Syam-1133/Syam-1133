@@ -133,9 +133,8 @@ A large-scale Amazon Recommender System using the SNAP Amazon metadata with 7 mi
 ### Math Gesture Problem Solver Controlled AI Assistant 
 The Math Gesture Problem Solver Controlled AI Assistant is an innovative project that allows users to interact with an AI to solve math problems using hand gestures. This project integrates computer vision for gesture recognition and a generative AI model for solving math problems.
 
-## AI Self-Driving Car Racing Simulation (AI from Scratch
+### AI Self-Driving Car Racing Simulation (AI from Scratch
 The AI Self driving Car Racing Simulation is an autonomous driving simulation built using Python and Pyglet, where self-driving cars are trained using a custom-built neural network and genetic algorithm and implemented entirely from scratch without external ML libraries.
-
 
 ---
 
@@ -183,13 +182,6 @@ The AI Self driving Car Racing Simulation is an autonomous driving simulation bu
   <a href="https://github.com/Syam-1133" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerrank.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
@@ -199,4 +191,4 @@ The AI Self driving Car Racing Simulation is an autonomous driving simulation bu
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Open+to+collaborations!+%F0%9F%A4%9D" alt="Footer" />
 </div>
 
-<p align="center">⭐️ From <a href="https://github.com/Syam-1133">Syamala Rao G</a> | Made with ❤️ and Python 🐍</p>
+<p align="center">⭐️ From <a href="https://github.com/Syam-1133">Syam G</a> | Made with ❤️ and Python 🐍</p>
