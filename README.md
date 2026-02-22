@@ -18,36 +18,11 @@
 
 ## 🚀 About Me
 
-```python
-class MachineLearningEngineer:
-    def __init__(self):
-        self.name = "Syamala Rao G"
-        self.role = "ML Engineer & MS CS Student"
-        self.location = "Chicago, IL 🌆"
-        self.experience = "5+ years in Engineering | 2+ years in ML"
-        
-    def get_expertise(self):
-        return [
-            "🤖 Computer Vision & Deep Learning",
-            "🚁 Drone Technology & Autonomous Systems",
-            "🧠 Large Language Models (LLMs)",
-            "📊 End-to-End ML Pipelines",
-            "⚡ Real-time Object Detection (YOLO)"
-        ]
-    
-    def current_focus(self):
-        return {
-            "learning": ["Reinforcement Learning", "Advanced AI Algorithms"],
-            "working_on": ["Drone AI Systems", "Computer Vision Projects"],
-            "interests": ["MLOps", "Edge AI", "Production ML Systems"]
-        }
-```
+I'm Syam, an MS student with 5 years of engineering experience and 2 years as machine learning engineer who's big on consistency and hard work. I enjoy messy data, tight deadlines, and AI systems that have to work in the real world. I show up every day to build, learn, break things, and fix them.
 
-💼 **Building scalable AI systems** that go from **research → deployment → real-world impact**  
-🎯 Specialized in **end-to-end AI systems** — from data pipelines to production deployment  
-🔥 Passionate about solving **real-world problems** where models work outside notebooks  
-⚙️ Love working with messy data, tight deadlines, and production-grade AI systems
+I specialize in building end-to-end AI systems — from data pipelines and model training to deployment and optimization.
 
+I enjoy solving real-world problems where models must work outside notebooks and in production environments.
 ---
 
 ## 💼 Work Experience
