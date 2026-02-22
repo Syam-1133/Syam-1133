@@ -1,14 +1,56 @@
-# Hi there, I'm Syam 👋
-I build scalable AI systems that go from research → deployment → real-world impact.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Syam;Machine+Learning+Engineer;Computer+Vision+Specialist;AI+Systems+Builder;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+</div>
 
-## About Me
-I'm Syam, an MS student with 5 years of engineering experience and 2 years as machine learning engineer who's big on consistency and hard work. I enjoy messy data, tight deadlines, and AI systems that have to work in the real world. I show up every day to build, learn, break things, and fix them.
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
+</div>
 
-I specialize in building end-to-end AI systems — from data pipelines and model training to deployment and optimization.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Syam-1133&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Syam-1133?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Chicago%2C%20IL-blue" />
+  <img src="https://img.shields.io/badge/Languages-5-orange" />
+</p>
 
-I enjoy solving real-world problems where models must work outside notebooks and in production environments.
+---
 
-## Work Experience
+## 🚀 About Me
+
+```python
+class MachineLearningEngineer:
+    def __init__(self):
+        self.name = "Syamala Rao G"
+        self.role = "ML Engineer & MS CS Student"
+        self.location = "Chicago, IL 🌆"
+        self.experience = "5+ years in Engineering | 2+ years in ML"
+        
+    def get_expertise(self):
+        return [
+            "🤖 Computer Vision & Deep Learning",
+            "🚁 Drone Technology & Autonomous Systems",
+            "🧠 Large Language Models (LLMs)",
+            "📊 End-to-End ML Pipelines",
+            "⚡ Real-time Object Detection (YOLO)"
+        ]
+    
+    def current_focus(self):
+        return {
+            "learning": ["Reinforcement Learning", "Advanced AI Algorithms"],
+            "working_on": ["Drone AI Systems", "Computer Vision Projects"],
+            "interests": ["MLOps", "Edge AI", "Production ML Systems"]
+        }
+```
+
+💼 **Building scalable AI systems** that go from **research → deployment → real-world impact**  
+🎯 Specialized in **end-to-end AI systems** — from data pipelines to production deployment  
+🔥 Passionate about solving **real-world problems** where models work outside notebooks  
+⚙️ Love working with messy data, tight deadlines, and production-grade AI systems
+
+---
+
+## 💼 Work Experience
 
 ### 🚁 Drone Engineering Club Leader at Governors State University
 **January 2025 - May 2026 | Chicago, Illinois**
@@ -39,7 +81,15 @@ I enjoy solving real-world problems where models must work outside notebooks and
 - Interfaced with critical train subsystems: brake, traction, signaling, and driving systems
 - **Technologies:** Embedded C, Software Testing, Train Control Systems
 
-## Skills & Technologies
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,aws,gcp,git,github,vscode,linux,java,cpp,c,sql,flask,kubernetes" />
+</div>
+
+<br/>
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -64,21 +114,40 @@ I enjoy solving real-world problems where models must work outside notebooks and
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-### Specializations
-- Machine Learning & Deep Learning
-- Computer Vision (YOLO, CNN, RNN, Transformers)
-- Large Language Models (LLMs)
-- Reinforcement Learning
-- Drone Technology & Autonomous Systems
+### 🎯 Specializations
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-00ADD8?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drone%20Tech-0066CC?style=for-the-badge&logo=drone&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
+  <img src="https://img.shields.io/badge/MLOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
-## Education
+---
 
-**Master of Science (MS) in Computer Science**  
-Governors State University, Chicago, IL | August 2024 - May 2026  
-*Coursework:* Foundation of Artificial Intelligence, Advanced Operating Systems, Reinforcement Learning, Algorithms
+## 🎓 Education
 
+<div align="center">
+  <img src="https://img.shields.io/badge/MS_Computer_Science-0052CC?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</div>
+
+**🏛️ Governors State University** | Chicago, IL  
+📅 August 2024 - May 2026  
+📚 *Coursework:* Foundation of Artificial Intelligence, Advanced Operating Systems, Reinforcement Learning, Algorithms
+
+
+---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWt3M3l4aXVwYzBvdGt3YmU4Y3VxZGxtN2t6OHVnN2Y0M2hrZjh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
+</div>
+
+<br/>
 
 ### 🧠 RAG-Based Document Intelligence Platform
 Production-ready RAG system using OpenAI embeddings, FAISS, Groq LLM, Streamlit UI, and voice assistant integration.
@@ -89,12 +158,66 @@ Built hybrid recommendation engine on 7M+ dataset with Dockerized microservices 
 ### 🚦 Real-Time Traffic Monitoring System
 YOLOv8-based vehicle detection, tracking, and speed estimation pipeline.
 
-## Competitive Programming & Achievements
-- 🏆 **5 Star Rating** on HackerRank for Problem Solving
-- 💻 Solved **500+ problems** on LeetCode
-- 🎯 Solved **200+ problems** on Coding Ninjas
-- 🤖 Selected as a member of the **VIT Robotics Club** (among 10,000+ applicants)
+---
 
+## 🏆 Competitive Programming & Achievements
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerRank-5%20⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Coding_Ninjas-200%2B%20Problems-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VIT_Robotics_Club-Selected-00ADD8?style=for-the-badge&logo=robot&logoColor=white" />
+</p>
 
-⭐️ From [Syamala Rao G](https://github.com/Syam-1133)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syam-1133&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syam-1133&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Syam-1133&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syam-1133&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syam-1133&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🤝 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/syam1133/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:syamkklr123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Syam-1133" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Open+to+collaborations!+%F0%9F%A4%9D" alt="Footer" />
+</div>
+
+<p align="center">⭐️ From <a href="https://github.com/Syam-1133">Syamala Rao G</a> | Made with ❤️ and Python 🐍</p>
