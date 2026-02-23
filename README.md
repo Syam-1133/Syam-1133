@@ -173,7 +173,7 @@ The AI Self driving Car Racing Simulation is an autonomous driving simulation bu
 ## 🤝 Connect with Me
 
 <div align="center">
-  <a href="https://syam-portfolio-website.vercel.app/" target="_blank">
+  <a href="https://syam-steel.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/syam1133/" target="_blank">
