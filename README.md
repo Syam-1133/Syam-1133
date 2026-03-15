@@ -1,198 +1,268 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Syam;Machine+Learning+Engineer;Computer+Vision+Specialist;AI+Systems+Builder;Gen+AI+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Syam%20Gudipudi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20AI%20Systems%20Builder&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Syam-1133&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Syam-1133?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Chicago%2C%20IL-blue" />
-  <img src="https://img.shields.io/badge/Languages-5-orange" />
-</p>
-
----
-
-## 🚀 About Me
-
-I'm Syam, an MS student with 5 years of engineering experience and 2 years as machine learning engineer who's big on consistency and hard work. I enjoy messy data, tight deadlines, and AI systems that have to work in the real world. I show up every day to build, learn, break things, and fix them.
-
-I specialize in building end-to-end AI systems — from data pipelines and model training to deployment and optimization.
-
-I enjoy solving real-world problems where models must work outside notebooks and in production environments.
----
-
-## 💼 Work Experience
-
-### 🚁 Drone Engineering Club Leader at Governors State University
-**January 2025 - May 2026 | Chicago, Illinois**
-- Leading a team of 20+ members in planning, designing, and executing drone engineering projects and workshops
-- Implemented computer vision algorithms for real-time object detection using YOLOv8 and OpenCV
-- Developed gesture-based drone control system using MediaPipe and Python for interactive flight demonstrations
-- **Technologies:** Python, YOLOv8, OpenCV, MediaPipe, Computer Vision
-
-### 🤖 Machine Learning Engineer / R&D Engineer at Medha Servo Drives
-**August 2023 - July 2024 | Hyderabad, India**
-- Trained embedded computer vision deep learning models for drone airfield recognition, achieving **90% F1 score**
-- Investigated and benchmarked computer vision architectures (CLIP, ResNet); developed lightweight model reducing processing time by **40%**
-- Designed drone navigation algorithms with YOLOv8 and Intel RealSense; improved pose estimation precision to **within 5cm**
-- Developed custom object detection models achieving **85% IoU** and **90% F1 score** for real-time indoor detection
-- **Technologies:** YOLOv8, Intel RealSense, CLIP, ResNet, Python, Computer Vision, Deep Learning
-
-### 🎯 Machine Learning Engineer at Updater Services
-**November 2021 - August 2022 | Delhi, India**
-- Developed Optical Flow model using Transformer and GPT-3 for high frame rate processing in Autonoumus systems
-- Conducted research and data analysis to identify error rate correlations with frame rates through visualization
-- Generated diverse frame rate datasets using a cluster of 120+ GPUs with OpenCV, multi-threading, and Python
-- **Technologies:** Transformers, GPT-3, OpenCV, Python, Multi-threading, GPU Computing
-
-### 🚊 Embedded Software Engineer Trainee at Alstom
-**July 2018 - August 2021 | Bangalore, India**
-- Verified and validated embedded train control software for Metro projects (Kochi Metro, Chennai Metro, REM Canada)
-- Executed comprehensive testing protocols for Main Processing Unit software
-- Interfaced with critical train subsystems: brake, traction, signaling, and driving systems
-- **Technologies:** Embedded C, Software Testing, Train Control Systems
-
----
-
-## 🛠️ Skills & Technologies
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,aws,gcp,git,github,vscode,linux,java,cpp,c,sql,flask,kubernetes" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=5%2B+Years+Engineering+%7C+2%2B+Years+ML+in+Production;Computer+Vision+%E2%80%94+YOLOv8+%7C+OpenCV+%7C+MediaPipe;LLMs+%7C+RAG+%7C+Generative+AI+%7C+MLOps;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
 
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Technologies & Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-### 🎯 Specializations
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-00ADD8?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drone%20Tech-0066CC?style=for-the-badge&logo=drone&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" />
-  <img src="https://img.shields.io/badge/MLOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <a href="https://www.linkedin.com/in/syam1133/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://syam-steel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:syamkklr123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Syam-1133" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Syam-1133&label=Profile+Views&color=58a6ff&style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-2ea043?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Chicago%2C%20IL-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+</p>
+
+---
+
+## ⚡ Quick Impact Summary
+
+<div align="center">
+
+| 🏆 Metric | 📊 Result |
+|:---|:---|
+| ML Models in Production | 3+ deployed systems |
+| Best Model Accuracy | 90% F1 Score (Drone Vision) |
+| Pose Estimation Precision | Within 5cm using YOLOv8 + Intel RealSense |
+| Processing Speed Improvement | 40% reduction in inference time |
+| GPU Cluster Dataset Generation | 120+ GPUs with custom pipelines |
+| LeetCode Problems Solved | 500+ |
+| HackerRank Rating | ⭐⭐⭐⭐⭐ (5 Stars) |
+
+</div>
+
+---
+
+## 🧠 About Me
+
+> *"I build AI that works in the real world — not just in notebooks."*
+
+I'm a **Machine Learning Engineer** with **5+ years of engineering experience** and **2+ years specializing in production ML systems**. Currently pursuing an **MS in Computer Science** at Governors State University (Chicago), with a deep focus on Computer Vision, LLMs, and end-to-end AI deployment.
+
+What sets me apart:
+- 🔭 I've shipped ML models to **real production environments** — embedded systems, drones, cloud APIs
+- 🎯 I obsess over **metrics that matter** — latency, accuracy, inference cost, not just notebook benchmarks
+- 🛠 I bridge the gap between **research and engineering** — I design, train, optimize, and deploy
+- 🤝 I lead **20+ person teams** and translate complex AI concepts into actionable roadmaps
+
+**Currently:** Open to ML Engineer, Computer Vision Engineer, and AI/Research Engineer roles.
+
+---
+
+## 💼 Professional Experience
+
+<details open>
+<summary><b>🚁 Drone Engineering Club — Club Leader | Governors State University</b> &nbsp;|&nbsp; Jan 2025 – May 2026 · Chicago, IL</summary>
+
+<br/>
+
+- Directing a **20+ member engineering team** through full-cycle drone project development: ideation → design → deployment
+- Implemented **real-time object detection** using YOLOv8 + OpenCV for autonomous flight decision-making
+- Engineered a **gesture-controlled drone system** with MediaPipe — enabling hands-free interactive flight demos
+- Designed workshops bridging computer vision theory and physical hardware deployment
+
+**Stack:** `Python` `YOLOv8` `OpenCV` `MediaPipe` `Computer Vision`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🤖 Machine Learning Engineer — R&D | Medha Servo Drives</b> &nbsp;|&nbsp; Aug 2023 – Jul 2024 · Hyderabad, India</summary>
+
+<br/>
+
+- Trained embedded CV models for **drone airfield recognition** — achieved **90% F1 score** on real-world deployment
+- Benchmarked CLIP vs ResNet architectures; designed a **lightweight model cutting inference time by 40%**
+- Built drone navigation pipeline using **YOLOv8 + Intel RealSense D435** — improved pose estimation to **within 5cm**
+- Developed custom object detection models reaching **85% IoU** for real-time indoor environments
+
+**Stack:** `YOLOv8` `Intel RealSense` `CLIP` `ResNet` `PyTorch` `Python` `Embedded CV`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🎯 Machine Learning Engineer | Updater Services</b> &nbsp;|&nbsp; Nov 2021 – Aug 2022 · Delhi, India</summary>
+
+<br/>
+
+- Developed an **Optical Flow model** combining Transformer architecture + GPT-3 for high frame-rate processing in autonomous systems
+- Designed and managed a **120+ GPU cluster pipeline** using OpenCV + multi-threading for large-scale dataset generation
+- Conducted deep error-rate analysis across frame rate distributions — surfaced actionable insights via data visualization
+
+**Stack:** `Transformers` `GPT-3` `OpenCV` `Python` `Multi-threading` `GPU Computing`
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🚊 Embedded Software Engineer Trainee | Alstom</b> &nbsp;|&nbsp; Jul 2018 – Aug 2021 · Bangalore, India</summary>
+
+<br/>
+
+- Verified and validated **safety-critical embedded train control software** for Kochi Metro, Chennai Metro, and REM Canada
+- Executed comprehensive MPU testing protocols interfacing with brake, traction, signaling, and driving subsystems
+- Developed deep expertise in embedded systems engineering and high-reliability software validation
+
+**Stack:** `Embedded C` `Software Testing` `Train Control Systems` `Safety-Critical Systems`
+
+</details>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 RAG-Based Document Intelligence Platform
+> *Turn any document into a queryable knowledge base*
+
+- Architected a full **Retrieval-Augmented Generation** pipeline: OpenAI embeddings → FAISS vector store → Groq LLM inference
+- Built answer grounding to ensure responses are **strictly sourced** from provided documents — no hallucination
+- Integrated **voice assistant** using speech-to-text + ElevenLabs TTS with a clean Streamlit UI and query history
+- **Why it matters:** Solves enterprise document search with production-grade accuracy and explainability
+
+`RAG` `OpenAI Embeddings` `FAISS` `Groq LLM` `Streamlit` `ElevenLabs` `Python`
+
+---
+
+### 🛍️ Large-Scale Amazon Recommender System
+> *Production-architected recommendation engine at 7M+ scale*
+
+- Processed **SNAP Amazon dataset**: 500K products, 7M reviews — built end-to-end data preprocessing pipelines
+- Architected with **Docker + AWS** to simulate a production-ready, scalable deployment environment
+- Implemented search optimization layer for fast, relevant product retrieval
+- **Why it matters:** Demonstrates ability to handle big data infrastructure at real-world scale
+
+`Python` `Docker` `AWS` `Recommendation Systems` `Big Data` `Data Pipelines`
+
+---
+
+### ✋ Math Gesture Problem Solver — AI Assistant
+> *Solve math problems with your hands*
+
+- Built real-time **hand gesture recognition** using MediaPipe to capture and interpret mathematical inputs
+- Integrated a **Generative AI model** for step-by-step math problem solving — fully touch-free interface
+- **Why it matters:** Unique fusion of computer vision + GenAI for accessible, interactive education
+
+`MediaPipe` `Computer Vision` `Generative AI` `Python` `OpenCV`
+
+---
+
+### 🏎️ AI Self-Driving Car Simulation — Built From Scratch
+> *Full autonomous driving sim with zero ML libraries*
+
+- Engineered a complete **neural network + genetic algorithm** in pure Python — no PyTorch, no TensorFlow
+- Cars evolve over generations using fitness-based selection, learning race tracks autonomously
+- **Why it matters:** Proves deep understanding of AI fundamentals, not just framework usage
+
+`Python` `Pyglet` `Neural Networks from Scratch` `Genetic Algorithms`
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,aws,gcp,kubernetes,git,github,linux,flask,java,cpp,c,mysql,vscode&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| Category | Technologies |
+|:---|:---|
+| **Languages** | Python · C · C++ · Java · SQL |
+| **ML / DL** | PyTorch · TensorFlow · Scikit-learn · HuggingFace · LangChain |
+| **Computer Vision** | OpenCV · YOLOv8 · MediaPipe · CLIP · ResNet · Intel RealSense |
+| **GenAI / LLMs** | GPT-4 · Groq · LangChain · RAG · FAISS · ElevenLabs |
+| **MLOps** | MLflow · Docker · Kubernetes · AWS · GCP · CI/CD |
+| **Data** | Pandas · NumPy · Matplotlib · Seaborn · SQL |
+
+</div>
 
 ---
 
 ## 🎓 Education
 
 <div align="center">
-  <img src="https://img.shields.io/badge/MS_Computer_Science-0052CC?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+| 🏛️ Institution | 📚 Degree | 📅 Duration |
+|:---|:---|:---|
+| **Governors State University**, Chicago, IL | MS Computer Science | Aug 2024 – May 2026 |
+| | *AI · Reinforcement Learning · Algorithms · Operating Systems* | |
+
 </div>
-
-**🏛️ Governors State University** | Chicago, IL  
-📅 August 2024 - May 2026  
-📚 *Coursework:* Foundation of Artificial Intelligence, Advanced Operating Systems, Reinforcement Learning, Algorithms
-
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWt3M3l4aXVwYzBvdGt3YmU4Y3VxZGxtN2t6OHVnN2Y0M2hrZjh4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="400"/>
-</div>
-
-<br/>
-
-### 🧠 RAG-Based Document Intelligence Platform
-A RAG-based Document Intelligence platform that turns documents into searchable knowledge. I create embeddings with OpenAI, store them in FAISS to retrieve the most relevant information, and pass them to a Groq LLM to answer questions strictly from the source. It includes a Streamlit UI, query history, and a voice assistant (speech-to-text + ElevenLabs TTS).
-
-### 🛍 Large-Scale Amazon Recommender System
-A large-scale Amazon Recommender System using the SNAP Amazon metadata with 7 million dataset ( 500K products, 7M reviews). The system includes search optimization, data preprocessing pipelines, and was architected with Docker and AWS to simulate a production-ready environment
-
-### Math Gesture Problem Solver Controlled AI Assistant 
-The Math Gesture Problem Solver Controlled AI Assistant is an innovative project that allows users to interact with an AI to solve math problems using hand gestures. This project integrates computer vision for gesture recognition and a generative AI model for solving math problems.
-
-### AI Self-Driving Car Racing Simulation (AI from Scratch
-The AI Self driving Car Racing Simulation is an autonomous driving simulation built using Python and Pyglet, where self-driving cars are trained using a custom-built neural network and genetic algorithm and implemented entirely from scratch without external ML libraries.
-
----
-
-## 🏆 Competitive Programming & Achievements
+## 🏆 Achievements & Competitive Programming
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HackerRank-5%20⭐-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Coding_Ninjas-200%2B%20Problems-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VIT_Robotics_Club-Selected-00ADD8?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-5%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-200%2B%20Problems-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VIT%20Robotics%20Club-Selected-00ADD8?style=for-the-badge" />
 </p>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syam-1133&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Syam-1133&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Syam-1133&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Syam-1133&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Syam-1133&theme=github-dark-blue&hide_border=true&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syam-1133&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syam-1133&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syam-1133&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Syam-1133&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b" width="100%"/>
 </div>
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://syam-steel.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <a href="https://syam-steel.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-syam--steel.vercel.app-FF5722?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/syam1133/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/syam1133/">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-syam1133-0A66C2?style=for-the-badge" />
   </a>
   <a href="mailto:syamkklr123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Syam-1133" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/📧%20Email-syamkklr123%40gmail.com-D14836?style=for-the-badge" />
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing!+%F0%9F%9A%80;Open+to+collaborations!+%F0%9F%A4%9D" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=24&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
-<p align="center">⭐️ From <a href="https://github.com/Syam-1133">Syam G</a> | Made with ❤️ and Python 🐍</p>
+<p align="center">
+  <i>⭐ If any of my projects helped you, consider giving them a star — it means a lot!</i><br/>
+  <b>Built with consistency, curiosity, and a lot of Python 🐍</b>
+</p>
+
