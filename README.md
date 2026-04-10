@@ -31,44 +31,28 @@
 
 ---
 
-## ⚡ Quick Impact Summary
 
-<div align="center">
 
-| 🏆 Metric | 📊 Result |
-|:---|:---|
-| ML Models in Production | 3+ deployed systems |
-| Best Model Accuracy | 90% F1 Score (Drone Vision) |
-| Pose Estimation Precision | Within 5cm using YOLOv8 + Intel RealSense |
-| Processing Speed Improvement | 40% reduction in inference time |
-| GPU Cluster Dataset Generation | 120+ GPUs with custom pipelines |
-| LeetCode Problems Solved | 500+ |
-| HackerRank Rating | ⭐⭐⭐⭐⭐ (5 Stars) |
-
-</div>
-
----
-
-## 🧠 About Me
+## About Me
 
 > *"I build AI that works in the real world — not just in notebooks."*
 
 I'm a **Machine Learning Engineer** with **5+ years of engineering experience** and **2+ years specializing in production ML systems**. Currently pursuing an **MS in Computer Science** at Governors State University (Chicago), with a deep focus on Computer Vision, LLMs, and end-to-end AI deployment.
 
 What sets me apart:
-- 🔭 I've shipped ML models to **real production environments** — embedded systems, drones, cloud APIs
-- 🎯 I obsess over **metrics that matter** — latency, accuracy, inference cost, not just notebook benchmarks
-- 🛠 I bridge the gap between **research and engineering** — I design, train, optimize, and deploy
-- 🤝 I lead **20+ person teams** and translate complex AI concepts into actionable roadmaps
+-  I've shipped ML models to **real production environments** — embedded systems, drones, cloud APIs
+-  I obsess over **metrics that matter** — latency, accuracy, inference cost, not just notebook benchmarks
+-  I bridge the gap between **research and engineering** — I design, train, optimize, and deploy
+-  I lead **20+ person teams** and translate complex AI concepts into actionable roadmaps
 
 **Currently:** Open to ML Engineer, Computer Vision Engineer, and AI/Research Engineer roles.
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 <details open>
-<summary><b>🚁 Drone Engineering Club — Club Leader | Governors State University</b> &nbsp;|&nbsp; Jan 2025 – May 2026 · Chicago, IL</summary>
+<summary><b> Drone Engineering Club — Club Leader | Governors State University</b> &nbsp;|&nbsp; Jan 2025 – May 2026 · Chicago, IL</summary>
 
 <br/>
 
@@ -84,7 +68,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b>🤖 Machine Learning Engineer — R&D | Medha Servo Drives</b> &nbsp;|&nbsp; Aug 2023 – Jul 2024 · Hyderabad, India</summary>
+<summary><b> Machine Learning Engineer — R&D | Medha Servo Drives</b> &nbsp;|&nbsp; Aug 2023 – Jul 2024 · Hyderabad, India</summary>
 
 <br/>
 
@@ -100,7 +84,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b>🎯 Machine Learning Engineer | Updater Services</b> &nbsp;|&nbsp; Nov 2021 – Aug 2022 · Delhi, India</summary>
+<summary><b> Machine Learning Engineer | Updater Services</b> &nbsp;|&nbsp; Nov 2021 – Aug 2022 · Delhi, India</summary>
 
 <br/>
 
@@ -115,7 +99,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b>🚊 Embedded Software Engineer Trainee | Alstom</b> &nbsp;|&nbsp; Jul 2018 – Aug 2021 · Bangalore, India</summary>
+<summary><b> Embedded Software Engineer Trainee | Alstom</b> &nbsp;|&nbsp; Jul 2018 – Aug 2021 · Bangalore, India</summary>
 
 <br/>
 
@@ -129,9 +113,9 @@ What sets me apart:
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🧠 RAG-Based Document Intelligence Platform
+###  RAG-Based Document Intelligence Platform
 > *Turn any document into a queryable knowledge base*
 
 - Architected a full **Retrieval-Augmented Generation** pipeline: OpenAI embeddings → FAISS vector store → Groq LLM inference
@@ -143,7 +127,7 @@ What sets me apart:
 
 ---
 
-### 🛍️ Large-Scale Amazon Recommender System
+###  Large-Scale Amazon Recommender System
 > *Production-architected recommendation engine at 7M+ scale*
 
 - Processed **SNAP Amazon dataset**: 500K products, 7M reviews — built end-to-end data preprocessing pipelines
@@ -155,7 +139,7 @@ What sets me apart:
 
 ---
 
-### ✋ Math Gesture Problem Solver — AI Assistant
+###  Math Gesture Problem Solver — AI Assistant
 > *Solve math problems with your hands*
 
 - Built real-time **hand gesture recognition** using MediaPipe to capture and interpret mathematical inputs
@@ -166,7 +150,7 @@ What sets me apart:
 
 ---
 
-### 🏎️ AI Self-Driving Car Simulation — Built From Scratch
+###  AI Self-Driving Car Simulation — Built From Scratch
 > *Full autonomous driving sim with zero ML libraries*
 
 - Engineered a complete **neural network + genetic algorithm** in pure Python — no PyTorch, no TensorFlow
@@ -177,7 +161,7 @@ What sets me apart:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,aws,gcp,kubernetes,git,github,linux,flask,java,cpp,c,mysql,vscode&theme=dark" />
@@ -200,11 +184,11 @@ What sets me apart:
 
 ---
 
-## 🎓 Education
+##  Education
 
 <div align="center">
 
-| 🏛️ Institution | 📚 Degree | 📅 Duration |
+|  Institution |  Degree |  Duration |
 |:---|:---|:---|
 | **Governors State University**, Chicago, IL | MS Computer Science | Aug 2024 – May 2026 |
 | | *AI · Reinforcement Learning · Algorithms · Operating Systems* | |
@@ -213,7 +197,7 @@ What sets me apart:
 
 ---
 
-## 🏆 Achievements & Competitive Programming
+##  Achievements & Competitive Programming
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
