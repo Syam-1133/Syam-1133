@@ -99,7 +99,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b> Embedded Software Engineer Trainee | Alstom</b> &nbsp;|&nbsp; Jul 2018 – Aug 2021 · Bangalore, India</summary>
+<summary><b> Software System Engineer | Alstom</b> &nbsp;|&nbsp; Jul 2018 – Aug 2021 · Bangalore, India</summary>
 
 <br/>
 
