@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=6%2B+Years+Engineering experience; Computer+Vision+%E2%80%94+YOLOv8+%7C+OpenCV+%7C+MediaPipe;LLMs+%7C+RAG+%7C+Generative+AI+%7C+MLOps;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=6%2B+Years+of+Engineering+Experience; Computer+Vision+%E2%80%94+YOLOv8+%7C+OpenCV+%7C+MediaPipe;LLMs+%7C+RAG+%7C+Generative+AI+%7C+MLOps;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 
 > *"I build AI that works in the real world — not just in notebooks."*
 
-I'm a **Machine Learning Engineer** with **6+ years of engineering experience** specializing in production ML systems**. I complted  **MS in Computer Science** at Governors State University (Chicago), with a deep focus on Computer Vision, LLMs, and end-to-end AI deployment.
+I'm a **Machine Learning Engineer** with **6+ years of engineering experience** specializing in **production ML systems**. I completed my **MS in Computer Science** at Governors State University (Chicago), with a deep focus on Computer Vision, LLMs, and end-to-end AI deployment.
 
 What sets me apart:
 -  I've shipped ML models to **real production environments** — embedded systems, drones, cloud APIs
@@ -232,7 +232,7 @@ What sets me apart:
     <img src="https://img.shields.io/badge/🌐%20Portfolio-syam--steel.vercel.app-FF5722?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/syam1133/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-syam1133-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-syam1133-0A66C2?style=for-the-badge" /
   </a>
   <a href="mailto:syamkklr123@gmail.com">
     <img src="https://img.shields.io/badge/📧%20Email-syamkklr123%40gmail.com-D14836?style=for-the-badge" />
