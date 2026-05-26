@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=5%2B+Years+Engineering+%7C+2%2B+Years+ML+in+Production;Computer+Vision+%E2%80%94+YOLOv8+%7C+OpenCV+%7C+MediaPipe;LLMs+%7C+RAG+%7C+Generative+AI+%7C+MLOps;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=6%2B+Years+Engineering+%7C+2%2B+Years+ML+in+Production;Computer+Vision+%E2%80%94+YOLOv8+%7C+OpenCV+%7C+MediaPipe;LLMs+%7C+RAG+%7C+Generative+AI+%7C+MLOps;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -37,7 +37,7 @@
 
 > *"I build AI that works in the real world — not just in notebooks."*
 
-I'm a **Machine Learning Engineer** with **5+ years of engineering experience** and **2+ years specializing in production ML systems**. Currently pursuing an **MS in Computer Science** at Governors State University (Chicago), with a deep focus on Computer Vision, LLMs, and end-to-end AI deployment.
+I'm a **Machine Learning Engineer** with **6+ years of engineering experience** specializing in production ML systems**. I complted  **MS in Computer Science** at Governors State University (Chicago), with a deep focus on Computer Vision, LLMs, and end-to-end AI deployment.
 
 What sets me apart:
 -  I've shipped ML models to **real production environments** — embedded systems, drones, cloud APIs
@@ -84,7 +84,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b> Machine Learning Engineer | Updater Services</b> &nbsp;|&nbsp; Nov 2021 – Aug 2022 · Delhi, India</summary>
+<summary><b> Machine Learning Engineer | Updater Services</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
 
 <br/>
 
