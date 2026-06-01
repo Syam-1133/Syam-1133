@@ -83,7 +83,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b> Machine Learning Engineer | Updater Services</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
+<summary><b> Machine Learning Engineer | Bombardier</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
 
 <br/>
 
