@@ -98,7 +98,6 @@ What sets me apart:
 - Designed and implemented **ML models** using Python, SQL, R, Scikit-learn, and XGBoost for predictive maintenance, equipment failure prediction, asset health monitoring, and operational performance optimization across railway and industrial systems
 - Developed **ETL pipelines and feature engineering frameworks** to process large-scale sensor, telemetry, manufacturing, and operational datasets for predictive analytics
 - Applied ML algorithms — regression, clustering, classification, decision trees, SVM — for trend identification and risk management
-- Built **customer segmentation and behavioral analytics models** to enhance fraud detection, loan approval, and retention initiatives
 - Created **BI dashboards and automated reporting** using Tableau, Power BI, Excel, and SQL for real-time visibility into manufacturing KPIs and equipment performance
 
 **Stack:** `Python` `SQL` `R` `Scikit-learn` `XGBoost` `Tableau` `Power BI` `ETL Pipelines` `Git` `JIRA`
