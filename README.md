@@ -38,17 +38,17 @@
 I'm an **Agentic AI Engineer with 6+ years of experience** designing and deploying **Agentic AI systems, multi-agent orchestration pipelines, and Generative AI solutions** for enterprise applications. Specialized in building autonomous AI agents, multi-agent workflows, RAG systems, and intelligent automation platforms.
 
 What sets me apart:
-- 🤖 I design **end-to-end Agentic AI systems** — from single-tool agents to complex multi-agent orchestration pipelines
-- 🔍 I build **production-grade RAG systems** with semantic search, vector retrieval, and grounded LLM reasoning
-- 🧠 I work across the full LLM stack — **GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI**
-- ⚙️ I deploy at scale — **Docker, Kubernetes, MLflow, LangSmith, AgentOps, AWS SageMaker, GCP Vertex AI**
-- 🎯 I focus on **autonomous decision-making, reliability, and production-grade AI** — not just prototypes
+- I design **end-to-end Agentic AI systems** — from single-tool agents to complex multi-agent orchestration pipelines
+- I build **production-grade RAG systems** with semantic search, vector retrieval, and grounded LLM reasoning
+- I work across the full LLM stack — **GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI**
+- I deploy at scale — **Docker, Kubernetes, MLflow, LangSmith, AgentOps, AWS SageMaker, GCP Vertex AI**
+- I focus on **autonomous decision-making, reliability, and production-grade AI** — not just prototypes
 
 **Currently:** Open to **Agentic AI Engineer**, **Generative AI Engineer**, **ML Engineer**, and **AI Research Engineer** roles.
 
 ---
 
-## 🧠 Agentic AI & LLM Stack
+## Agentic AI & LLM Stack
 
 <div align="center">
 
@@ -66,7 +66,7 @@ What sets me apart:
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 <details open>
 <summary><b>🤖 Agentic AI Engineer | USAA</b> &nbsp;|&nbsp; July 2025 – Present · Chicago, IL, USA</summary>
@@ -91,7 +91,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b>🔬 AI / Machine Learning Engineer | Medha Servo Drives Pvt Ltd</b> &nbsp;|&nbsp; Aug 2023 – July 2024 · Hyderabad, India</summary>
+<summary><b> AI / Machine Learning Engineer | Medha Servo Drives Pvt Ltd</b> &nbsp;|&nbsp; Aug 2023 – July 2024 · Hyderabad, India</summary>
 
 <br/>
 
@@ -108,7 +108,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b>📊 Machine Learning Engineer | Bombardier</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
+<summary><b> Machine Learning Engineer | Bombardier</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
 
 <br/>
 
@@ -124,7 +124,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b>🚆 Data Scientist | Alstom</b> &nbsp;|&nbsp; July 2018 – Aug 2021 · Bangalore, India</summary>
+<summary><b> Data Scientist | Alstom</b> &nbsp;|&nbsp; July 2018 – Aug 2021 · Bangalore, India</summary>
 
 <br/>
 
@@ -141,7 +141,7 @@ What sets me apart:
 
 ## 🚀 Featured Projects
 
-### 🧠 Agentic RAG — Document Intelligence Q&A Platform with Voice Assistant
+###  Agentic RAG — Document Intelligence Q&A Platform with Voice Assistant
 > *Turn any document into a queryable knowledge base — with voice*
 
 - Architected an **Agentic AI-powered Document Intelligence Platform** with end-to-end RAG pipeline using **LangChain Expression Language (LCEL)**, FAISS vector store, and OpenAI Embeddings
@@ -153,7 +153,7 @@ What sets me apart:
 
 ---
 
-### 🛒 Large-Scale Amazon Recommender System
+###  Large-Scale Amazon Recommender System
 > *Production-architected recommendation engine at 7M+ scale*
 
 - Built scalable recommender system using **collaborative filtering and cosine similarity** for user-item matching
@@ -165,7 +165,7 @@ What sets me apart:
 
 ---
 
-### ✋ Gesture Controlled AI Math Assistant
+### Gesture Controlled AI Math Assistant
 > *Solve math problems with your hands*
 
 - Engineered **real-time hand gesture recognition** using OpenCV and cvzone with **<100ms responsiveness**
@@ -175,7 +175,7 @@ What sets me apart:
 
 ---
 
-## 🛠️ Full Tech Stack
+##  Full Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,aws,azure,gcp,kubernetes,git,github,linux,flask,fastapi,mysql,postgres,mongodb&theme=dark" />
