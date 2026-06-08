@@ -1,20 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Syam%20Gudipudi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20AI%20Systems%20Builder&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Syam%20Gudipudi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20LLMs%20%7C%20Computer%20Vision%20%7C%20MLOps&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
 </div>
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=6%2B+Years+of+Engineering+Experience;Computer+Vision+%E2%80%94+YOLOv8+%7C+OpenCV+%7C+MediaPipe;LLMs+%7C+RAG+%7C+Generative+AI+%7C+MLOps;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=6%2B+Years+of+Engineering+Experience;Agentic+AI+%7C+Multi-Agent+Systems+%7C+RAG+Pipelines;LangChain+%7C+LangGraph+%7C+AutoGen+%7C+CrewAI;Computer+Vision+%E2%80%94+YOLOv8+%7C+OpenCV+%7C+MediaPipe;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
 
-<p align="center"> 
+<p align="center">
   <a href="https://www.linkedin.com/in/syam1133/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://syam-steel.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="mailto:syamkklr123@gmail.com">
+  <a href="mailto:syamkklr1133@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Syam-1133" target="_blank">
@@ -26,32 +27,50 @@
   <img src="https://komarev.com/ghpvc/?username=Syam-1133&label=Profile+Views&color=58a6ff&style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-2ea043?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Chicago%2C%20IL-blue?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-F1%20OPT-orange?style=flat-square" />
 </p>
 
 ---
-
-
 
 ## About Me
 
 > *"I build AI that works in the real world — not just in notebooks."*
 
-I'm a **Machine Learning Engineer** with **6+ years of engineering experience** specializing in **production ML systems**. I completed my **MS in Computer Science** at Governors State University (Chicago), with a deep focus on Computer Vision, LLMs, and end-to-end AI deployment.
+I'm an **Agentic AI Engineer** with **6+ years of engineering experience** specializing in **autonomous AI systems, multi-agent orchestration, and production ML pipelines**. Currently completing my **MS in Computer Science** at Governors State University (Chicago), with deep expertise in Agentic AI, LLMs, RAG, and Computer Vision.
 
 What sets me apart:
--  I've shipped ML models to **real production environments** — embedded systems, drones, cloud APIs
--  I obsess over **metrics that matter** — latency, accuracy, inference cost, not just notebook benchmarks
--  I bridge the gap between **research and engineering** — I design, train, optimize, and deploy
--  I lead **20+ person teams** and translate complex AI concepts into actionable roadmaps
+- 🤖 I design **autonomous AI agents and multi-agent workflows** — from single-tool agents to complex orchestration pipelines
+- 🔍 I've built **end-to-end RAG systems** with semantic search, vector retrieval, and grounded LLM reasoning
+- 🚁 I've shipped **Computer Vision models to real production environments** — embedded systems, drones, cloud APIs
+- 🎯 I bridge the gap between **research and engineering** — I design, train, optimize, and deploy
+- 👥 I lead **20+ person teams** and translate complex AI concepts into actionable roadmaps
 
-**Currently:** Open to ML Engineer, Computer Vision Engineer, and AI/Research Engineer roles.
+**Currently:** Open to **Agentic AI Engineer**, **Generative AI Engineer**, **ML Engineer**, and **AI Research Engineer** roles.
 
 ---
 
-##  Professional Experience
+## 🧠 Agentic AI & LLM Stack
+
+<div align="center">
+
+| Category | Technologies |
+|:---|:---|
+| **Agentic Frameworks** | LangChain · LangGraph · AutoGen · CrewAI · LlamaIndex · Haystack · DSPy · Semantic Kernel · OpenAI Agents SDK |
+| **LLM Models** | GPT-4o · Claude · Gemini · Llama 3 · Mistral · Cohere · Ollama |
+| **LLM Platforms** | AWS Bedrock · Azure OpenAI · GCP Vertex AI · Hugging Face |
+| **Vector Databases** | Pinecone · Weaviate · ChromaDB · FAISS · Qdrant · Milvus · pgvector · Elasticsearch |
+| **Prompt Engineering** | Chain-of-Thought · ReAct · ReWOO · Reflexion · Tool-Use Prompting |
+| **Fine-Tuning** | LoRA · QLoRA · PEFT · RLHF |
+| **LLMOps / AgentOps** | MLflow · LangSmith · AgentOps · Weights & Biases · CI/CD |
+
+</div>
+
+---
+
+## 💼 Professional Experience
 
 <details open>
-<summary><b> Drone Engineering Club — Club Leader | Governors State University</b> &nbsp;|&nbsp; Jan 2025 – May 2026 · Chicago, IL</summary>
+<summary><b>🚁 Drone Engineering Club — Club Leader | Governors State University</b> &nbsp;|&nbsp; Jan 2025 – May 2026 · Chicago, IL</summary>
 
 <br/>
 
@@ -67,103 +86,104 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b> Machine Learning Engineer — R&D | Medha Servo Drives</b> &nbsp;|&nbsp; Aug 2023 – Jul 2024 · Hyderabad, India</summary>
+<summary><b>🤖 AI / Machine Learning Engineer | Medha Servo Drives Pvt Ltd</b> &nbsp;|&nbsp; Aug 2023 – Jul 2024 · Hyderabad, India</summary>
 
 <br/>
 
-- Trained embedded CV models for **drone airfield recognition** — achieved **90% F1 score** on real-world deployment
-- Benchmarked CLIP vs ResNet architectures; designed a **lightweight model cutting inference time by 40%**
-- Built drone navigation pipeline using **YOLOv8 + Intel RealSense D435** — improved pose estimation to **within 5cm**
-- Developed custom object detection models reaching **85% IoU** for real-time indoor environments
+- Designed and implemented **ML models** using Python, Scikit-learn, and XGBoost for predictive maintenance, equipment failure prediction, and operational performance optimization across railway and industrial systems
+- Developed **ETL pipelines and feature engineering frameworks** to process large-scale sensor, telemetry, and operational datasets for predictive analytics
+- Applied ML algorithms including regression, clustering, classification, decision trees, and SVM for trend identification and risk management
+- Built **customer segmentation and behavioral analytics models** to enhance fraud detection and retention initiatives
+- Created **BI dashboards** using Tableau and Power BI for real-time visibility into manufacturing KPIs and equipment performance
 
-**Stack:** `YOLOv8` `Intel RealSense` `CLIP` `ResNet` `PyTorch` `Python` `Embedded CV`
+**Stack:** `Python` `SQL` `Scikit-learn` `XGBoost` `Tableau` `Power BI` `ETL Pipelines`
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b> Machine Learning Engineer | Bombardier</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
+<summary><b>📊 Machine Learning Engineer | Bombardier</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
 
 <br/>
 
-- Developed an **Optical Flow model** combining Transformer architecture + GPT-3 for high frame-rate processing in autonomous systems
-- Designed and managed a **120+ GPU cluster pipeline** using OpenCV + multi-threading for large-scale dataset generation
-- Conducted deep error-rate analysis across frame rate distributions — surfaced actionable insights via data visualization
+- Analyzed large-scale operational and workforce datasets using Python, SQL, Pandas, and NumPy to identify trends in productivity, resource utilization, and service performance
+- Developed **interactive dashboards and KPI scorecards** using Power BI and Tableau to monitor workforce performance, SLA compliance, and facility operations
+- Built and optimized **ETL pipelines and data transformation workflows** integrating data from HR systems, workforce management platforms, and enterprise databases
+- Applied **statistical analysis, predictive modeling, and forecasting techniques** to improve workforce planning and demand forecasting
 
-**Stack:** `Transformers` `GPT-3` `OpenCV` `Python` `Multi-threading` `GPU Computing`
+**Stack:** `Python` `SQL` `Power BI` `Tableau` `Pandas` `NumPy` `ETL`
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b> Software System Engineer | Alstom</b> &nbsp;|&nbsp; Jul 2018 – Aug 2021 · Bangalore, India</summary>
+<summary><b>🚆 Data Scientist | Alstom</b> &nbsp;|&nbsp; Jul 2018 – Aug 2021 · Bangalore, India</summary>
 
 <br/>
 
-- Verified and validated **safety-critical embedded train control software** for Kochi Metro, Chennai Metro, and REM Canada
-- Executed comprehensive MPU testing protocols interfacing with brake, traction, signaling, and driving subsystems
-- Developed deep expertise in embedded systems engineering and high-reliability software validation
+- Developed **interactive dashboards and BI reports** using Power BI, Tableau, Looker, and BigQuery to monitor railway operations, fleet performance, and maintenance KPIs
+- Performed **advanced data analysis and statistical modeling** using Python, R, SQL, Pandas, and Matplotlib to analyze train performance, equipment reliability, and asset utilization
+- Built **scalable ETL pipelines** using Azure Data Factory, GCP, SQL, and Python to consolidate data from enterprise systems, IoT sensors, and operational databases
+- Applied **predictive analytics and ML models** to predict equipment failures, optimize maintenance schedules, and reduce downtime
 
-**Stack:** `Embedded C` `Software Testing` `Train Control Systems` `Safety-Critical Systems`
+**Stack:** `Python` `R` `SQL` `Power BI` `Tableau` `Azure Data Factory` `BigQuery` `GCP`
 
 </details>
 
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-###  RAG-Based Document Intelligence Platform
-> *Turn any document into a queryable knowledge base*
+### 🧠 Agentic RAG — Document Intelligence Q&A Platform
+> *Turn any document into a queryable knowledge base with voice*
 
-- Architected a full **Retrieval-Augmented Generation** pipeline: OpenAI embeddings → FAISS vector store → Groq LLM inference
-- Built answer grounding to ensure responses are **strictly sourced** from provided documents — no hallucination
-- Integrated **voice assistant** using speech-to-text + ElevenLabs TTS with a clean Streamlit UI and query history
-- **Why it matters:** Solves enterprise document search with production-grade accuracy and explainability
+- Architected an **Agentic AI-powered Document Intelligence Platform** with end-to-end RAG pipeline using **LangChain Expression Language (LCEL)**, FAISS vector store, and OpenAI Embeddings
+- Integrated **Groq Llama 3.3 70B** with custom prompt engineering for autonomous context-aware document Q&A **under 3s latency**
+- Built **answer grounding** to ensure responses are strictly sourced from provided documents — no hallucination
+- Integrated **voice assistant** using speech-to-text + ElevenLabs TTS with clean Streamlit UI and query history
 
-`RAG` `OpenAI Embeddings` `FAISS` `Groq LLM` `Streamlit` `ElevenLabs` `Python`
+`Agentic RAG` `LangChain` `LangGraph` `FAISS` `OpenAI Embeddings` `Groq` `ElevenLabs` `Streamlit`
 
 ---
 
-###  Large-Scale Amazon Recommender System
+### 🛒 Large-Scale Amazon Recommender System
 > *Production-architected recommendation engine at 7M+ scale*
 
-- Processed **SNAP Amazon dataset**: 500K products, 7M reviews — built end-to-end data preprocessing pipelines
-- Architected with **Docker + AWS** to simulate a production-ready, scalable deployment environment
-- Implemented search optimization layer for fast, relevant product retrieval
-- **Why it matters:** Demonstrates ability to handle big data infrastructure at real-world scale
+- Built scalable Amazon recommender system using **collaborative filtering and cosine similarity** for user-item matching
+- Processed **548K+ products and 7M+ reviews** end-to-end with full data preprocessing pipelines
+- Achieved **<100ms search** and **<500ms recommendation** response times
+- Deployed via **Docker and AWS Elastic Beanstalk** with real-time performance monitoring
 
-`Python` `Docker` `AWS` `Recommendation Systems` `Big Data` `Data Pipelines`
+`Python` `Flask` `Scikit-learn` `Pandas` `Docker` `AWS` `Apache Spark`
 
 ---
 
-###  Math Gesture Problem Solver — AI Assistant
+### ✋ Gesture Controlled AI Math Assistant
 > *Solve math problems with your hands*
 
-- Built real-time **hand gesture recognition** using MediaPipe to capture and interpret mathematical inputs
-- Integrated a **Generative AI model** for step-by-step math problem solving — fully touch-free interface
-- **Why it matters:** Unique fusion of computer vision + GenAI for accessible, interactive education
+- Built real-time **hand gesture recognition** using OpenCV and cvzone with **<100ms responsiveness**
+- Integrated **Google Gemini 2.0 Flash LLM** (multimodal) to process hand-drawn math equations as images and return AI-generated step-by-step solutions in real time
 
-`MediaPipe` `Computer Vision` `Generative AI` `Python` `OpenCV`
+`MediaPipe` `OpenCV` `Google Gemini` `Generative AI` `Python`
 
 ---
 
-###  AI Self-Driving Car Simulation — Built From Scratch
+### 🚗 AI Self-Driving Car Simulation — Built From Scratch
 > *Full autonomous driving sim with zero ML libraries*
 
 - Engineered a complete **neural network + genetic algorithm** in pure Python — no PyTorch, no TensorFlow
 - Cars evolve over generations using fitness-based selection, learning race tracks autonomously
-- **Why it matters:** Proves deep understanding of AI fundamentals, not just framework usage
 
 `Python` `Pyglet` `Neural Networks from Scratch` `Genetic Algorithms`
 
 ---
 
-##  Tech Stack
+## 🛠️ Full Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,aws,gcp,kubernetes,git,github,linux,flask,java,cpp,c,mysql,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,docker,aws,azure,gcp,kubernetes,git,github,linux,flask,fastapi,mysql,postgres,mongodb&theme=dark" />
 </div>
 
 <br/>
@@ -172,37 +192,43 @@ What sets me apart:
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | Python · C · C++ · Java · SQL |
-| **ML / DL** | PyTorch · TensorFlow · Scikit-learn · HuggingFace · LangChain |
+| **Languages** | Python · SQL · JavaScript · TypeScript · Bash · Java · C++ · R |
+| **AI / ML** | PyTorch · TensorFlow · Scikit-learn · XGBoost · LightGBM · Keras |
 | **Computer Vision** | OpenCV · YOLOv8 · MediaPipe · CLIP · ResNet · Intel RealSense |
-| **GenAI / LLMs** | GPT-4 · Groq · LangChain · RAG · FAISS · ElevenLabs |
-| **MLOps** | MLflow · Docker · Kubernetes · AWS · GCP · CI/CD |
-| **Data** | Pandas · NumPy · Matplotlib · Seaborn · SQL |
+| **NLP** | SpaCy · NLTK · Hugging Face Transformers |
+| **Backend & APIs** | FastAPI · Flask · REST APIs · Microservices · Event-Driven Architecture |
+| **Data Engineering** | Pandas · NumPy · Apache Spark · Hadoop · Kafka · ETL Pipelines |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Redis · Cassandra |
+| **Visualization** | Streamlit · Gradio · Power BI · Tableau · Matplotlib · Seaborn |
+| **MLOps** | Docker · Kubernetes · MLflow · GitHub Actions · Jenkins · CI/CD |
+| **Cloud** | AWS (SageMaker, Lambda, S3, Bedrock) · Azure · GCP (Vertex AI, BigQuery) |
+| **Responsible AI** | AI Governance · Guardrails · Prompt Injection Defense · Bias Mitigation · Explainable AI |
 
 </div>
 
 ---
 
-##  Education
+## 🎓 Education
 
 <div align="center">
 
-|  Institution |  Degree |  Duration |
+| 🏫 Institution | 📚 Degree | 📅 Duration |
 |:---|:---|:---|
 | **Governors State University**, Chicago, IL | MS Computer Science | Aug 2024 – May 2026 |
-| | *AI · Reinforcement Learning · Algorithms · Operating Systems* | |
+| | *Foundations of AI · Reinforcement Learning · Advanced Operating Systems · Algorithms* | |
+| **JNTU**, India | B.Tech | 2018 – 2022 |
 
 </div>
 
 ---
 
-##  Achievements & Competitive Programming
+## 🏆 Achievements & Competitive Programming
 
 <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/HackerRank-5%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   <img src="https://img.shields.io/badge/Coding%20Ninjas-200%2B%20Problems-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VIT%20Robotics%20Club-Selected-00ADD8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSU%20Drone%20Club-Leader-00ADD8?style=for-the-badge" />
 </p>
 
 ---
@@ -231,21 +257,20 @@ What sets me apart:
     <img src="https://img.shields.io/badge/🌐%20Portfolio-syam--steel.vercel.app-FF5722?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/syam1133/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-syam1133-0A66C2?style=for-the-badge" /
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-syam1133-0A66C2?style=for-the-badge" />
   </a>
-  <a href="mailto:syamkklr123@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-syamkklr123%40gmail.com-D14836?style=for-the-badge" />
+  <a href="mailto:syamkklr1133@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-syamkklr1133%40gmail.com-D14836?style=for-the-badge" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Open%20to%20Opportunities&fontSize=24&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&text=Open%20to%20Agentic%20AI%20Opportunities&fontSize=24&fontColor=58a6ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>
 
 <p align="center">
   <i>⭐ If any of my projects helped you, consider giving them a star — it means a lot!</i><br/>
   <b>Built with consistency, curiosity, and a lot of Python 🐍</b>
 </p>
-
