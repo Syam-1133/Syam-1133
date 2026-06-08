@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Syam%20Gudipudi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20LLMs%20%7C%20Computer%20Vision%20%7C%20MLOps&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Syam%20Gudipudi&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20Multi-Agent%20Systems%20%7C%20LLMs%20%7C%20RAG%20%7C%20MLOps&descAlignY=58&descColor=8b949e&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=6%2B+Years+of+Engineering+Experience;Agentic+AI+%7C+Multi-Agent+Systems+%7C+RAG+Pipelines;LangChain+%7C+LangGraph+%7C+AutoGen+%7C+CrewAI;Computer+Vision+%E2%80%94+YOLOv8+%7C+OpenCV+%7C+MediaPipe;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=6%2B+Years+of+Engineering+Experience;Agentic+AI+%7C+Multi-Agent+Orchestration+%7C+RAG+Pipelines;LangChain+%7C+LangGraph+%7C+AutoGen+%7C+CrewAI+%7C+LlamaIndex;GPT-4o+%7C+Claude+%7C+Gemini+%7C+Llama+3+%7C+AWS+Bedrock;Building+AI+that+works+outside+the+notebook+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -27,7 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=Syam-1133&label=Profile+Views&color=58a6ff&style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-✅-2ea043?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Chicago%2C%20IL-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-F1%20OPT-orange?style=flat-square" />
 </p>
 
 ---
@@ -36,14 +35,14 @@
 
 > *"I build AI that works in the real world — not just in notebooks."*
 
-I'm an **Agentic AI Engineer** with **6+ years of engineering experience** specializing in **autonomous AI systems, multi-agent orchestration, and production ML pipelines**. Currently completing my **MS in Computer Science** at Governors State University (Chicago), with deep expertise in Agentic AI, LLMs, RAG, and Computer Vision.
+I'm an **Agentic AI Engineer with 6+ years of experience** designing and deploying **Agentic AI systems, multi-agent orchestration pipelines, and Generative AI solutions** for enterprise applications. Specialized in building autonomous AI agents, multi-agent workflows, RAG systems, and intelligent automation platforms.
 
 What sets me apart:
-- 🤖 I design **autonomous AI agents and multi-agent workflows** — from single-tool agents to complex orchestration pipelines
-- 🔍 I've built **end-to-end RAG systems** with semantic search, vector retrieval, and grounded LLM reasoning
-- 🚁 I've shipped **Computer Vision models to real production environments** — embedded systems, drones, cloud APIs
-- 🎯 I bridge the gap between **research and engineering** — I design, train, optimize, and deploy
-- 👥 I lead **20+ person teams** and translate complex AI concepts into actionable roadmaps
+- 🤖 I design **end-to-end Agentic AI systems** — from single-tool agents to complex multi-agent orchestration pipelines
+- 🔍 I build **production-grade RAG systems** with semantic search, vector retrieval, and grounded LLM reasoning
+- 🧠 I work across the full LLM stack — **GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI**
+- ⚙️ I deploy at scale — **Docker, Kubernetes, MLflow, LangSmith, AgentOps, AWS SageMaker, GCP Vertex AI**
+- 🎯 I focus on **autonomous decision-making, reliability, and production-grade AI** — not just prototypes
 
 **Currently:** Open to **Agentic AI Engineer**, **Generative AI Engineer**, **ML Engineer**, and **AI Research Engineer** roles.
 
@@ -57,11 +56,11 @@ What sets me apart:
 |:---|:---|
 | **Agentic Frameworks** | LangChain · LangGraph · AutoGen · CrewAI · LlamaIndex · Haystack · DSPy · Semantic Kernel · OpenAI Agents SDK |
 | **LLM Models** | GPT-4o · Claude · Gemini · Llama 3 · Mistral · Cohere · Ollama |
-| **LLM Platforms** | AWS Bedrock · Azure OpenAI · GCP Vertex AI · Hugging Face |
+| **LLM Platforms** | AWS Bedrock · Azure OpenAI · GCP Vertex AI · Hugging Face Transformers |
 | **Vector Databases** | Pinecone · Weaviate · ChromaDB · FAISS · Qdrant · Milvus · pgvector · Elasticsearch |
-| **Prompt Engineering** | Chain-of-Thought · ReAct · ReWOO · Reflexion · Tool-Use Prompting |
+| **Prompt Engineering** | Chain-of-Thought (CoT) · ReAct · ReWOO · Reflexion · Tool-Use Prompting |
 | **Fine-Tuning** | LoRA · QLoRA · PEFT · RLHF |
-| **LLMOps / AgentOps** | MLflow · LangSmith · AgentOps · Weights & Biases · CI/CD |
+| **LLMOps / AgentOps** | MLflow · LangSmith · AgentOps · Weights & Biases · GitHub Actions · Jenkins · CI/CD |
 
 </div>
 
@@ -70,33 +69,39 @@ What sets me apart:
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>🚁 Drone Engineering Club — Club Leader | Governors State University</b> &nbsp;|&nbsp; Jan 2025 – May 2026 · Chicago, IL</summary>
+<summary><b>🤖 Agentic AI Engineer | USAA</b> &nbsp;|&nbsp; July 2025 – Present · Chicago, IL, USA</summary>
 
 <br/>
 
-- Directing a **20+ member engineering team** through full-cycle drone project development: ideation → design → deployment
-- Implemented **real-time object detection** using YOLOv8 + OpenCV for autonomous flight decision-making
-- Engineered a **gesture-controlled drone system** with MediaPipe — enabling hands-free interactive flight demos
-- Designed workshops bridging computer vision theory and physical hardware deployment
+- Designed and deployed production-grade **Agentic AI, LLM, NLP, and Generative AI solutions** using Python, SQL, FastAPI, and REST APIs for healthcare analytics, claims processing, fraud detection, and intelligent automation
+- Developed **autonomous AI agents and multi-agent pipelines** using LangChain, LlamaIndex, LangGraph, AutoGen, CrewAI, Haystack, DSPy, OpenAI APIs, and Hugging Face Transformers for autonomous task execution, tool use, document intelligence, and clinical decision support
+- Built advanced **RAG systems** using GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI, and GCP Vertex AI — improving semantic search, patient support, and enterprise knowledge retrieval
+- Implemented scalable **vector search and semantic retrieval** using Pinecone, Weaviate, ChromaDB, FAISS, Qdrant, Milvus, pgvector, and Elasticsearch with text-embedding-3 and BGE embedding models
+- Developed **NLP and multimodal AI solutions** for healthcare document processing, OCR, summarization, entity recognition, sentiment analysis, and predictive analytics using PyTorch, TensorFlow, SpaCy, NLTK, OpenCV, and Hugging Face
+- Applied advanced prompt engineering (CoT, ReAct, ReWOO, Reflexion) and fine-tuning methods (**LoRA, QLoRA, PEFT**) to improve LLM accuracy, reasoning, and domain adaptation
+- Architected **end-to-end multi-agent orchestration systems** with tool use, memory, planning, and reflection capabilities using LangGraph, AutoGen, and CrewAI for research, analytics, reporting, and clinical decision-support workflows
+- Established enterprise **MLOps, LLMOps, and AgentOps pipelines** using Docker, Kubernetes, MLflow, LangSmith, AgentOps, Weights & Biases, GitHub Actions, Jenkins, and CI/CD
+- Deployed AI/ML models on **AWS SageMaker, AWS Lambda, and GCP Cloud Run** within microservices-based healthcare platforms
+- Collaborated with cross-functional teams using Git, GitHub Copilot, Postman, JIRA, and Confluence to implement **Responsible AI and security guardrails**
 
-**Stack:** `Python` `YOLOv8` `OpenCV` `MediaPipe` `Computer Vision`
+**Stack:** `LangGraph` `AutoGen` `CrewAI` `LangChain` `LlamaIndex` `GPT-4o` `Claude` `Gemini` `Llama 3` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes`
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b>🤖 AI / Machine Learning Engineer | Medha Servo Drives Pvt Ltd</b> &nbsp;|&nbsp; Aug 2023 – Jul 2024 · Hyderabad, India</summary>
+<summary><b>🔬 AI / Machine Learning Engineer | Medha Servo Drives Pvt Ltd</b> &nbsp;|&nbsp; Aug 2023 – July 2024 · Hyderabad, India</summary>
 
 <br/>
 
-- Designed and implemented **ML models** using Python, Scikit-learn, and XGBoost for predictive maintenance, equipment failure prediction, and operational performance optimization across railway and industrial systems
-- Developed **ETL pipelines and feature engineering frameworks** to process large-scale sensor, telemetry, and operational datasets for predictive analytics
-- Applied ML algorithms including regression, clustering, classification, decision trees, and SVM for trend identification and risk management
-- Built **customer segmentation and behavioral analytics models** to enhance fraud detection and retention initiatives
-- Created **BI dashboards** using Tableau and Power BI for real-time visibility into manufacturing KPIs and equipment performance
+- Designed and implemented **ML models** using Python, SQL, R, Scikit-learn, and XGBoost for predictive maintenance, equipment failure prediction, asset health monitoring, and operational performance optimization across railway and industrial systems
+- Developed **ETL pipelines and feature engineering frameworks** to process large-scale sensor, telemetry, manufacturing, and operational datasets for predictive analytics
+- Applied ML algorithms — regression, clustering, classification, decision trees, SVM — for trend identification and risk management
+- Built **customer segmentation and behavioral analytics models** to enhance fraud detection, loan approval, and retention initiatives
+- Created **BI dashboards and automated reporting** using Tableau, Power BI, Excel, and SQL for real-time visibility into manufacturing KPIs and equipment performance
 
-**Stack:** `Python` `SQL` `Scikit-learn` `XGBoost` `Tableau` `Power BI` `ETL Pipelines`
+**Stack:** `Python` `SQL` `R` `Scikit-learn` `XGBoost` `Tableau` `Power BI` `ETL Pipelines` `Git` `JIRA`
 
 </details>
 
@@ -107,28 +112,28 @@ What sets me apart:
 
 <br/>
 
-- Analyzed large-scale operational and workforce datasets using Python, SQL, Pandas, and NumPy to identify trends in productivity, resource utilization, and service performance
+- Analyzed large-scale operational, workforce, and service delivery datasets using Python, SQL, Pandas, and NumPy to identify trends in productivity, resource utilization, and operational efficiency
 - Developed **interactive dashboards and KPI scorecards** using Power BI and Tableau to monitor workforce performance, SLA compliance, and facility operations
-- Built and optimized **ETL pipelines and data transformation workflows** integrating data from HR systems, workforce management platforms, and enterprise databases
-- Applied **statistical analysis, predictive modeling, and forecasting techniques** to improve workforce planning and demand forecasting
+- Built and optimized **ETL pipelines and data transformation workflows** integrating HR systems, workforce management platforms, and enterprise databases
+- Applied **statistical analysis, predictive modeling, and forecasting** to improve workforce planning, demand forecasting, and service delivery optimization
 
-**Stack:** `Python` `SQL` `Power BI` `Tableau` `Pandas` `NumPy` `ETL`
+**Stack:** `Python` `SQL` `Power BI` `Tableau` `Pandas` `NumPy` `ETL` `Git` `JIRA`
 
 </details>
 
 <br/>
 
 <details open>
-<summary><b>🚆 Data Scientist | Alstom</b> &nbsp;|&nbsp; Jul 2018 – Aug 2021 · Bangalore, India</summary>
+<summary><b>🚆 Data Scientist | Alstom</b> &nbsp;|&nbsp; July 2018 – Aug 2021 · Bangalore, India</summary>
 
 <br/>
 
-- Developed **interactive dashboards and BI reports** using Power BI, Tableau, Looker, and BigQuery to monitor railway operations, fleet performance, and maintenance KPIs
-- Performed **advanced data analysis and statistical modeling** using Python, R, SQL, Pandas, and Matplotlib to analyze train performance, equipment reliability, and asset utilization
-- Built **scalable ETL pipelines** using Azure Data Factory, GCP, SQL, and Python to consolidate data from enterprise systems, IoT sensors, and operational databases
+- Developed **interactive dashboards and BI reports** using Power BI, Tableau, Looker, BigQuery, and Azure SQL Database to monitor railway operations, fleet performance, and manufacturing KPIs
+- Performed **advanced data analysis and statistical modeling** using Python, R, SQL, Pandas, Matplotlib, and ggplot2 to analyze train performance, equipment reliability, and asset utilization
+- Built **scalable ETL pipelines** using Azure Data Factory, Logic Apps, GCP, SQL, and Python to consolidate data from enterprise systems, IoT sensors, and operational databases
 - Applied **predictive analytics and ML models** to predict equipment failures, optimize maintenance schedules, and reduce downtime
 
-**Stack:** `Python` `R` `SQL` `Power BI` `Tableau` `Azure Data Factory` `BigQuery` `GCP`
+**Stack:** `Python` `R` `SQL` `Power BI` `Tableau` `Looker` `Azure Data Factory` `BigQuery` `GCP`
 
 </details>
 
@@ -136,23 +141,23 @@ What sets me apart:
 
 ## 🚀 Featured Projects
 
-### 🧠 Agentic RAG — Document Intelligence Q&A Platform
-> *Turn any document into a queryable knowledge base with voice*
+### 🧠 Agentic RAG — Document Intelligence Q&A Platform with Voice Assistant
+> *Turn any document into a queryable knowledge base — with voice*
 
 - Architected an **Agentic AI-powered Document Intelligence Platform** with end-to-end RAG pipeline using **LangChain Expression Language (LCEL)**, FAISS vector store, and OpenAI Embeddings
-- Integrated **Groq Llama 3.3 70B** with custom prompt engineering for autonomous context-aware document Q&A **under 3s latency**
-- Built **answer grounding** to ensure responses are strictly sourced from provided documents — no hallucination
-- Integrated **voice assistant** using speech-to-text + ElevenLabs TTS with clean Streamlit UI and query history
+- Integrated **Groq Llama 3.3 70B** with custom prompt engineering delivering autonomous, context-aware document Q&A **under 3s latency**
+- Built **answer grounding** ensuring responses are strictly sourced from provided documents — zero hallucination
+- Integrated **voice assistant** using speech-to-text + ElevenLabs TTS with a clean Streamlit UI and query history
 
-`Agentic RAG` `LangChain` `LangGraph` `FAISS` `OpenAI Embeddings` `Groq` `ElevenLabs` `Streamlit`
+`Python` `LangChain` `LangGraph` `Groq` `OpenAI` `FAISS` `Streamlit` `Agentic RAG` `Prompt Engineering`
 
 ---
 
 ### 🛒 Large-Scale Amazon Recommender System
 > *Production-architected recommendation engine at 7M+ scale*
 
-- Built scalable Amazon recommender system using **collaborative filtering and cosine similarity** for user-item matching
-- Processed **548K+ products and 7M+ reviews** end-to-end with full data preprocessing pipelines
+- Built scalable recommender system using **collaborative filtering and cosine similarity** for user-item matching
+- Processed **548K+ products and 7M+ reviews** with full preprocessing pipelines using Apache Spark
 - Achieved **<100ms search** and **<500ms recommendation** response times
 - Deployed via **Docker and AWS Elastic Beanstalk** with real-time performance monitoring
 
@@ -163,20 +168,10 @@ What sets me apart:
 ### ✋ Gesture Controlled AI Math Assistant
 > *Solve math problems with your hands*
 
-- Built real-time **hand gesture recognition** using OpenCV and cvzone with **<100ms responsiveness**
+- Engineered **real-time hand gesture recognition** using OpenCV and cvzone with **<100ms responsiveness**
 - Integrated **Google Gemini 2.0 Flash LLM** (multimodal) to process hand-drawn math equations as images and return AI-generated step-by-step solutions in real time
 
-`MediaPipe` `OpenCV` `Google Gemini` `Generative AI` `Python`
-
----
-
-### 🚗 AI Self-Driving Car Simulation — Built From Scratch
-> *Full autonomous driving sim with zero ML libraries*
-
-- Engineered a complete **neural network + genetic algorithm** in pure Python — no PyTorch, no TensorFlow
-- Cars evolve over generations using fitness-based selection, learning race tracks autonomously
-
-`Python` `Pyglet` `Neural Networks from Scratch` `Genetic Algorithms`
+`Python` `OpenCV` `Google Gemini LLM` `Computer Vision` `Generative AI`
 
 ---
 
@@ -193,16 +188,15 @@ What sets me apart:
 | Category | Technologies |
 |:---|:---|
 | **Languages** | Python · SQL · JavaScript · TypeScript · Bash · Java · C++ · R |
-| **AI / ML** | PyTorch · TensorFlow · Scikit-learn · XGBoost · LightGBM · Keras |
-| **Computer Vision** | OpenCV · YOLOv8 · MediaPipe · CLIP · ResNet · Intel RealSense |
-| **NLP** | SpaCy · NLTK · Hugging Face Transformers |
+| **AI / ML & GenAI** | Agentic AI · Multi-Agent Systems · Machine Learning · Deep Learning · NLP · RAG · Semantic Search · Recommendation Systems |
+| **LLM Frameworks** | LangChain · LangGraph · LlamaIndex · AutoGen · CrewAI · Haystack · DSPy · Semantic Kernel · OpenAI Agents SDK · Anthropic SDK |
+| **ML Frameworks** | TensorFlow · PyTorch · Scikit-learn · Keras · XGBoost · LightGBM · SpaCy · NLTK · OpenCV |
+| **MLOps / LLMOps** | Docker · Kubernetes · MLflow · LangSmith · AgentOps · Weights & Biases · GitHub Actions · Jenkins · CI/CD |
 | **Backend & APIs** | FastAPI · Flask · REST APIs · Microservices · Event-Driven Architecture |
-| **Data Engineering** | Pandas · NumPy · Apache Spark · Hadoop · Kafka · ETL Pipelines |
-| **Databases** | PostgreSQL · MySQL · MongoDB · Redis · Cassandra |
-| **Visualization** | Streamlit · Gradio · Power BI · Tableau · Matplotlib · Seaborn |
-| **MLOps** | Docker · Kubernetes · MLflow · GitHub Actions · Jenkins · CI/CD |
-| **Cloud** | AWS (SageMaker, Lambda, S3, Bedrock) · Azure · GCP (Vertex AI, BigQuery) |
-| **Responsible AI** | AI Governance · Guardrails · Prompt Injection Defense · Bias Mitigation · Explainable AI |
+| **Cloud** | AWS (SageMaker, Lambda, S3, Bedrock) · Microsoft Azure · GCP (Vertex AI, BigQuery, Cloud Run) |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Redis · Cassandra · Apache Spark · Hadoop · Kafka · ETL Pipelines |
+| **Visualization** | Streamlit · Gradio · Jupyter Notebook · Power BI · Tableau |
+| **Responsible AI** | AI Governance · Guardrails · Prompt Injection Defense · Model Evaluation · Bias Mitigation · Explainable AI |
 
 </div>
 
@@ -215,8 +209,7 @@ What sets me apart:
 | 🏫 Institution | 📚 Degree | 📅 Duration |
 |:---|:---|:---|
 | **Governors State University**, Chicago, IL | MS Computer Science | Aug 2024 – May 2026 |
-| | *Foundations of AI · Reinforcement Learning · Advanced Operating Systems · Algorithms* | |
-| **JNTU**, India | B.Tech | 2018 – 2022 |
+| | *Foundations of AI · Reinforcement Learning · Advanced Operating Systems* | |
 
 </div>
 
