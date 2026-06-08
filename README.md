@@ -38,17 +38,17 @@
 I'm an **Agentic AI Engineer with 6+ years of experience** designing and deploying **Agentic AI systems, multi-agent orchestration pipelines, and Generative AI solutions** for enterprise applications. Specialized in building autonomous AI agents, multi-agent workflows, RAG systems, and intelligent automation platforms.
 
 What sets me apart:
-- I design **end-to-end Agentic AI systems** — from single-tool agents to complex multi-agent orchestration pipelines
-- I build **production-grade RAG systems** with semantic search, vector retrieval, and grounded LLM reasoning
-- I work across the full LLM stack — **GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI**
-- I deploy at scale — **Docker, Kubernetes, MLflow, LangSmith, AgentOps, AWS SageMaker, GCP Vertex AI**
-- I focus on **autonomous decision-making, reliability, and production-grade AI** — not just prototypes
+- 🤖 I design **end-to-end Agentic AI systems** — from single-tool agents to complex multi-agent orchestration pipelines
+- 🔍 I build **production-grade RAG systems** with semantic search, vector retrieval, and grounded LLM reasoning
+- 🧠 I work across the full LLM stack — **GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI**
+- ⚙️ I deploy at scale — **Docker, Kubernetes, MLflow, LangSmith, AgentOps, AWS SageMaker, GCP Vertex AI**
+- 🎯 I focus on **autonomous decision-making, reliability, and production-grade AI** — not just prototypes
 
 **Currently:** Open to **Agentic AI Engineer**, **Generative AI Engineer**, **ML Engineer**, and **AI Research Engineer** roles.
 
 ---
 
-##  Agentic AI & LLM Stack
+## 🧠 Agentic AI & LLM Stack
 
 <div align="center">
 
@@ -69,19 +69,19 @@ What sets me apart:
 ## 💼 Professional Experience
 
 <details open>
-<summary><b> Agentic AI Engineer | USAA</b> &nbsp;|&nbsp; July 2025 – Present · Chicago, IL, USA</summary>
+<summary><b>🤖 Agentic AI Engineer | USAA</b> &nbsp;|&nbsp; July 2025 – Present · Chicago, IL, USA</summary>
 
 <br/>
 
-- Designed and deployed production-grade **Agentic AI, LLM, NLP, and Generative AI solutions** using Python, SQL, FastAPI, and REST APIs for healthcare analytics, claims processing, fraud detection, and intelligent automation
-- Developed **autonomous AI agents and multi-agent pipelines** using LangChain, LlamaIndex, LangGraph, AutoGen, CrewAI, Haystack, DSPy, OpenAI APIs, and Hugging Face Transformers for autonomous task execution, tool use, document intelligence, and clinical decision support
-- Built advanced **RAG systems** using GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI, and GCP Vertex AI — improving semantic search, patient support, and enterprise knowledge retrieval
+- Designed and deployed production-grade **Agentic AI, LLM, NLP, and Generative AI solutions** using Python, SQL, FastAPI, and REST APIs for financial analytics, insurance claims processing, fraud detection, and intelligent automation
+- Developed **autonomous AI agents and multi-agent pipelines** using LangChain, LlamaIndex, LangGraph, AutoGen, CrewAI, Haystack, DSPy, OpenAI APIs, and Hugging Face Transformers for autonomous task execution, tool use, document intelligence, and financial decision support
+- Built advanced **RAG systems** using GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI, and GCP Vertex AI — improving semantic search, member support, and enterprise knowledge retrieval
 - Implemented scalable **vector search and semantic retrieval** using Pinecone, Weaviate, ChromaDB, FAISS, Qdrant, Milvus, pgvector, and Elasticsearch with text-embedding-3 and BGE embedding models
-- Developed **NLP and multimodal AI solutions** for healthcare document processing, OCR, summarization, entity recognition, sentiment analysis, and predictive analytics using PyTorch, TensorFlow, SpaCy, NLTK, OpenCV, and Hugging Face
+- Developed **NLP and multimodal AI solutions** for financial document processing, OCR, summarization, entity recognition, sentiment analysis, and predictive analytics using PyTorch, TensorFlow, SpaCy, NLTK, OpenCV, and Hugging Face
 - Applied advanced prompt engineering (CoT, ReAct, ReWOO, Reflexion) and fine-tuning methods (**LoRA, QLoRA, PEFT**) to improve LLM accuracy, reasoning, and domain adaptation
-- Architected **end-to-end multi-agent orchestration systems** with tool use, memory, planning, and reflection capabilities using LangGraph, AutoGen, and CrewAI for research, analytics, reporting, and clinical decision-support workflows
+- Architected **end-to-end multi-agent orchestration systems** with tool use, memory, planning, and reflection capabilities using LangGraph, AutoGen, and CrewAI for research, analytics, reporting, and financial decision-support workflows
 - Established enterprise **MLOps, LLMOps, and AgentOps pipelines** using Docker, Kubernetes, MLflow, LangSmith, AgentOps, Weights & Biases, GitHub Actions, Jenkins, and CI/CD
-- Deployed AI/ML models on **AWS SageMaker, AWS Lambda, and GCP Cloud Run** within microservices-based healthcare platforms
+- Deployed AI/ML models on **AWS SageMaker, AWS Lambda, and GCP Cloud Run** within microservices-based financial services platforms
 - Collaborated with cross-functional teams using Git, GitHub Copilot, Postman, JIRA, and Confluence to implement **Responsible AI and security guardrails**
 
 **Stack:** `LangGraph` `AutoGen` `CrewAI` `LangChain` `LlamaIndex` `GPT-4o` `Claude` `Gemini` `Llama 3` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes`
@@ -91,7 +91,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b> AI / Machine Learning Engineer | Medha Servo Drives Pvt Ltd</b> &nbsp;|&nbsp; Aug 2023 – July 2024 · Hyderabad, India</summary>
+<summary><b>🔬 AI / Machine Learning Engineer | Medha Servo Drives Pvt Ltd</b> &nbsp;|&nbsp; Aug 2023 – July 2024 · Hyderabad, India</summary>
 
 <br/>
 
@@ -108,7 +108,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b> Machine Learning Engineer | Bombardier</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
+<summary><b>📊 Machine Learning Engineer | Bombardier</b> &nbsp;|&nbsp; Nov 2021 – Aug 2023 · Delhi, India</summary>
 
 <br/>
 
@@ -124,7 +124,7 @@ What sets me apart:
 <br/>
 
 <details open>
-<summary><b> Data Scientist | Alstom</b> &nbsp;|&nbsp; July 2018 – Aug 2021 · Bangalore, India</summary>
+<summary><b>🚆 Data Scientist | Alstom</b> &nbsp;|&nbsp; July 2018 – Aug 2021 · Bangalore, India</summary>
 
 <br/>
 
@@ -141,7 +141,7 @@ What sets me apart:
 
 ## 🚀 Featured Projects
 
-### Agentic RAG — Document Intelligence Q&A Platform with Voice Assistant
+### 🧠 Agentic RAG — Document Intelligence Q&A Platform with Voice Assistant
 > *Turn any document into a queryable knowledge base — with voice*
 
 - Architected an **Agentic AI-powered Document Intelligence Platform** with end-to-end RAG pipeline using **LangChain Expression Language (LCEL)**, FAISS vector store, and OpenAI Embeddings
@@ -153,7 +153,7 @@ What sets me apart:
 
 ---
 
-### Large-Scale Amazon Recommender System
+### 🛒 Large-Scale Amazon Recommender System
 > *Production-architected recommendation engine at 7M+ scale*
 
 - Built scalable recommender system using **collaborative filtering and cosine similarity** for user-item matching
@@ -165,7 +165,7 @@ What sets me apart:
 
 ---
 
-### Gesture Controlled AI Math Assistant
+### ✋ Gesture Controlled AI Math Assistant
 > *Solve math problems with your hands*
 
 - Engineered **real-time hand gesture recognition** using OpenCV and cvzone with **<100ms responsiveness**
