@@ -35,7 +35,7 @@
 
 > *"I build AI that works in the real world — not just in notebooks."*
 
-I'm an **Agentic AI Engineer with 6+ years of experience** designing and deploying **Agentic AI systems, multi-agent orchestration pipelines, and Generative AI solutions** for enterprise applications. Specialized in building autonomous AI agents, multi-agent workflows, RAG systems, and intelligent automation platforms.
+I'm an **Agentic AI Engineer with 7 years of experience** designing and deploying **Agentic AI systems, multi-agent orchestration pipelines, and Generative AI solutions** for enterprise applications. Specialized in building autonomous AI agents, multi-agent workflows, RAG systems, and intelligent automation platforms.
 
 What sets me apart:
 - I design **end-to-end Agentic AI systems** — from single-tool agents to complex multi-agent orchestration pipelines
