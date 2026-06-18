@@ -69,20 +69,39 @@ What sets me apart:
 ## Professional Experience
 
 <details open>
-<summary><b>🤖 Agentic AI Engineer | USAA</b> &nbsp;|&nbsp; July 2025 – Present · Chicago, IL, USA</summary>
+<summary><b>🤖 Agentic AI Engineer | USAA</b> &nbsp;|&nbsp; July 2025 – June 2026 · Chicago, IL, USA</summary>
 
 <br/>
 
-- Designed and deployed production-grade **Agentic AI, LLM, NLP, and Generative AI solutions** using Python, SQL, FastAPI, and REST APIs for financial analytics, insurance claims processing, fraud detection, and intelligent automation
-- Developed **autonomous AI agents and multi-agent pipelines** using LangChain, LlamaIndex, LangGraph, AutoGen, CrewAI, Haystack, DSPy, OpenAI APIs, and Hugging Face Transformers for autonomous task execution, tool use, document intelligence, and financial decision support
-- Built advanced **RAG systems** using GPT-4o, Claude, Gemini, Llama 3, Mistral, Cohere, AWS Bedrock, Azure OpenAI, and GCP Vertex AI — improving semantic search, member support, and enterprise knowledge retrieval
-- Implemented scalable **vector search and semantic retrieval** using Pinecone, Weaviate, ChromaDB, FAISS, Qdrant, Milvus, pgvector, and Elasticsearch with text-embedding-3 and BGE embedding models
-- Developed **NLP and multimodal AI solutions** for financial document processing, OCR, summarization, entity recognition, sentiment analysis, and predictive analytics using PyTorch, TensorFlow, SpaCy, NLTK, OpenCV, and Hugging Face
-- Applied advanced prompt engineering (CoT, ReAct, ReWOO, Reflexion) and fine-tuning methods (**LoRA, QLoRA, PEFT**) to improve LLM accuracy, reasoning, and domain adaptation
-- Architected **end-to-end multi-agent orchestration systems** with tool use, memory, planning, and reflection capabilities using LangGraph, AutoGen, and CrewAI for research, analytics, reporting, and financial decision-support workflows
-- Established enterprise **MLOps, LLMOps, and AgentOps pipelines** using Docker, Kubernetes, MLflow, LangSmith, AgentOps, Weights & Biases, GitHub Actions, Jenkins, and CI/CD
-- Deployed AI/ML models on **AWS SageMaker, AWS Lambda, and GCP Cloud Run** within microservices-based financial services platforms
-- Collaborated with cross-functional teams using Git, GitHub Copilot, Postman, JIRA, and Confluence to implement **Responsible AI and security guardrails**
+• Designed and deployed enterprise-scale Agentic AI solutions using Python, FastAPI, LangChain, LangGraph,
+and OpenAI APIs, automating customer service workflows, insurance claims processing, fraud investigations, and
+financial operations, reducing manual effort by 45% and improving response times by 60%.
+• Developed intelligent AI Agents and Multi-Agent Systems using LangGraph, AutoGen, CrewAI, and DSPy to
+orchestrate policy servicing, claims adjudication, risk assessment, and customer support operations, increasing
+operational efficiency by 40% across business units.
+• Built production-grade LLM-powered AI Copilots leveraging GPT-4o, Claude, Gemini, Llama 3, and AWS
+Bedrock to assist claims analysts, fraud investigators, and customer service representatives, reducing research time
+by 55% and improving decision accuracy by 35%.
+• Engineered advanced Retrieval-Augmented Generation (RAG) platforms using LangChain, LlamaIndex,
+Pinecone, Weaviate, and FAISS, enabling semantic retrieval of policy documents, compliance regulations, claims
+history, and customer records with 92% retrieval accuracy.
+• Implemented autonomous AI agent workflows for insurance claims triage, document verification, policy
+recommendations, and underwriting support, accelerating claims processing cycles by 50% and improving customer
+satisfaction scores by 30%.
+• Developed conversational AI and virtual assistant solutions using OpenAI, Hugging Face Transformers, and Azure
+OpenAI to provide real-time policy support, claims status updates, and financial guidance, handling over 70% of
+customer inquiries without human intervention.
+• Built scalable vector search and knowledge management systems using Pinecone, Qdrant, Milvus, ChromaDB,
+Elasticsearch, and pgvector, supporting enterprise-wide AI-powered search capabilities across millions of insurances
+and financial records.
+• Applied advanced prompt engineering methodologies including Chain-of-Thought (CoT), ReAct, Self-
+Consistency, Few-Shot Learning, and Function Calling, improving LLM reasoning performance by 35% and
+reducing hallucination rates by 40%.
+• Fine-tuned domain-specific LLMs using LoRA, QLoRA, PEFT, and Hugging Face Transformers on insurance,
+claims, and fraud datasets, increasing model precision by 28% and reducing inference costs by 30%.
+• Established enterprise-grade LLMOps and MLOps frameworks using Docker, Kubernetes, MLflow, LangSmith,
+Weights & Biases, GitHub Actions, Jenkins, and CI/CD pipelines for automated deployment, monitoring,
+governance, and observability of AI agents and LLM application
 
 **Stack:** `LangGraph` `AutoGen` `CrewAI` `LangChain` `LlamaIndex` `GPT-4o` `Claude` `Gemini` `Llama 3` `FastAPI` `AWS` `GCP` `Docker` `Kubernetes`
 
