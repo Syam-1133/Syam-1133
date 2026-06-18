@@ -76,29 +76,38 @@ What sets me apart:
 • Designed and deployed enterprise-scale Agentic AI solutions using Python, FastAPI, LangChain, LangGraph,
 and OpenAI APIs, automating customer service workflows, insurance claims processing, fraud investigations, and
 financial operations, reducing manual effort by 45% and improving response times by 60%.
+
 • Developed intelligent AI Agents and Multi-Agent Systems using LangGraph, AutoGen, CrewAI, and DSPy to
 orchestrate policy servicing, claims adjudication, risk assessment, and customer support operations, increasing
 operational efficiency by 40% across business units.
+
 • Built production-grade LLM-powered AI Copilots leveraging GPT-4o, Claude, Gemini, Llama 3, and AWS
 Bedrock to assist claims analysts, fraud investigators, and customer service representatives, reducing research time
 by 55% and improving decision accuracy by 35%.
+
 • Engineered advanced Retrieval-Augmented Generation (RAG) platforms using LangChain, LlamaIndex,
 Pinecone, Weaviate, and FAISS, enabling semantic retrieval of policy documents, compliance regulations, claims
 history, and customer records with 92% retrieval accuracy.
+
 • Implemented autonomous AI agent workflows for insurance claims triage, document verification, policy
 recommendations, and underwriting support, accelerating claims processing cycles by 50% and improving customer
 satisfaction scores by 30%.
+
 • Developed conversational AI and virtual assistant solutions using OpenAI, Hugging Face Transformers, and Azure
 OpenAI to provide real-time policy support, claims status updates, and financial guidance, handling over 70% of
 customer inquiries without human intervention.
+
 • Built scalable vector search and knowledge management systems using Pinecone, Qdrant, Milvus, ChromaDB,
 Elasticsearch, and pgvector, supporting enterprise-wide AI-powered search capabilities across millions of insurances
 and financial records.
+
 • Applied advanced prompt engineering methodologies including Chain-of-Thought (CoT), ReAct, Self-
 Consistency, Few-Shot Learning, and Function Calling, improving LLM reasoning performance by 35% and
 reducing hallucination rates by 40%.
+
 • Fine-tuned domain-specific LLMs using LoRA, QLoRA, PEFT, and Hugging Face Transformers on insurance,
 claims, and fraud datasets, increasing model precision by 28% and reducing inference costs by 30%.
+
 • Established enterprise-grade LLMOps and MLOps frameworks using Docker, Kubernetes, MLflow, LangSmith,
 Weights & Biases, GitHub Actions, Jenkins, and CI/CD pipelines for automated deployment, monitoring,
 governance, and observability of AI agents and LLM application
